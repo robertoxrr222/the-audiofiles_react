@@ -1,0 +1,16 @@
+.buttonAndre {
+    padding: 20px 30px;
+    font-size: 1em;
+    background-color: #000000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%; 
+    max-width: 300px; 
+    margin-left: 0px;
+}
+
+.buttonAndre:hover {
+    background-color: #535353;
+}

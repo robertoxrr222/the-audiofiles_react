@@ -1,0 +1,119 @@
+@font-face {
+    font-family: lovelo;
+    src: url(assets/Fonts/Lovelo-Black.otf);
+}
+
+@font-face {
+    font-family: quicksand;
+    src: url(assets/Fonts/Quicksand-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: poppins;
+    src: url(assets/Fonts/Poppins-Regular.ttf)
+}
+
+@font-face {
+    font-family: bebas;
+    src: url(assets/Fonts/BebasNeue-Regular.ttf);
+}
+
+.body {
+    background-color: white;
+    height: 100vh;
+}
+
+.body_large {
+    background-color: white;
+    height: 100%;
+}
+
+.column_navItems {
+    font-family: quicksand;
+}
+
+.label_menuSectionTitles {
+    font-family: poppins;
+}
+
+.div_productRow {
+    margin-top: 25px;
+}
+
+.div_imgContainer {
+    height: 200px;
+    width: 200px;
+}
+
+.img_product {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.label_productName {
+    font-family: bebas;
+}
+
+#div_header {
+    object-fit: cover;
+}
+
+#h1_pageName {
+    font-family: lovelo;
+}
+
+.column_navItems a {
+    text-decoration: none;
+}
+
+.column_navItems a:hover {
+    text-decoration: underline;
+}
+
+.login-button {
+    font-family: quicksand;
+    background-color: #ffffff; 
+    color: #333333; 
+    border: 1px solid #333333; 
+}
+
+.login-button:hover {
+    background-color: #f0f0f0; /* Cambia el color de fondo al pasar el mouse sobre el botón */
+}
+
+.li_productFunctions {
+    font-family: quicksand;
+}
+
+#label_productName {
+    font-family: bebas;
+}
+
+
+.column1{
+    padding-left: 100px;
+}
+
+.block1{
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+#block_button1{ 
+    padding-top: 200px; 
+}
+
+.parrafo{
+   font-size: 30px;
+   color: black;
+    
+}
+
+#table1{
+    padding-top: 70px;
+    image-resolution: 5000px;
+   
+    width: 800px; /* Ajusta el ancho a 200 píxeles */
+    height: auto; /* Mantiene la proporción de aspecto */
+}

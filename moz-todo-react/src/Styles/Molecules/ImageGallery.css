@@ -1,0 +1,18 @@
+.gallery {
+    flex: 1;
+    text-align: center;
+    margin-right: 2px;
+}
+
+.gallery .gallery_main-image {
+    margin-top: 30px;
+    margin-bottom: 70px;
+    width: 300px;
+    height: 300px;
+}
+
+.thumbnails {
+    height: 102px;
+    margin-bottom: 150px;
+    display: flex;
+}
